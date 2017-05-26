@@ -1,0 +1,9 @@
+F:\Project\51sole_soulefu_manage\SoleFuModel\bin\Debug\SoleFuModel.dll
+F:\Project\51sole_soulefu_manage\SoleFuModel\bin\Debug\SoleFuModel.pdb
+F:\Project\51sole_soulefu_manage\SoleFuModel\obj\Debug\SoleFuModel.dll
+F:\Project\51sole_soulefu_manage\SoleFuModel\obj\Debug\SoleFuModel.pdb
+F:\Project\51sole_soulefu_manage\SoleFuModel\obj\Debug\SoleFuModel.csprojResolveAssemblyReference.cache
+D:\soulefu_manage\SoleFuModel\bin\Debug\SoleFuModel.dll
+D:\soulefu_manage\SoleFuModel\bin\Debug\SoleFuModel.pdb
+D:\soulefu_manage\SoleFuModel\obj\Debug\SoleFuModel.dll
+D:\soulefu_manage\SoleFuModel\obj\Debug\SoleFuModel.pdb

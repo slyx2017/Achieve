@@ -1,0 +1,17 @@
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveCommon.dll
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveCommon.pdb
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveEntity.dll
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveEntity.pdb
+D:\soulefu_manage\SoleFuCommon\obj\Debug\AchieveCommon.csprojResolveAssemblyReference.cache
+D:\soulefu_manage\SoleFuCommon\obj\Debug\AchieveCommon.dll
+D:\soulefu_manage\SoleFuCommon\obj\Debug\AchieveCommon.pdb
+D:\Achieve\Common\AchieveCommon\bin\Debug\AchieveCommon.dll
+D:\Achieve\Common\AchieveCommon\bin\Debug\AchieveCommon.pdb
+D:\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.csprojResolveAssemblyReference.cache
+D:\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.dll
+D:\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.pdb
+D:\MyProduct\Achieve\Common\AchieveCommon\bin\Debug\AchieveCommon.dll
+D:\MyProduct\Achieve\Common\AchieveCommon\bin\Debug\AchieveCommon.pdb
+D:\MyProduct\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.csprojResolveAssemblyReference.cache
+D:\MyProduct\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.dll
+D:\MyProduct\Achieve\Common\AchieveCommon\obj\Debug\AchieveCommon.pdb

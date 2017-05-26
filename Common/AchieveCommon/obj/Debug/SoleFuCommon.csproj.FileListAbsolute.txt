@@ -1,0 +1,14 @@
+F:\Project\51sole_soulefu_manage\SoleFuCommon\bin\Debug\SoleFuCommon.dll
+F:\Project\51sole_soulefu_manage\SoleFuCommon\bin\Debug\SoleFuCommon.pdb
+F:\Project\51sole_soulefu_manage\SoleFuCommon\bin\Debug\SoleFuModel.dll
+F:\Project\51sole_soulefu_manage\SoleFuCommon\bin\Debug\SoleFuModel.pdb
+F:\Project\51sole_soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.csprojResolveAssemblyReference.cache
+F:\Project\51sole_soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.dll
+F:\Project\51sole_soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.pdb
+D:\soulefu_manage\SoleFuCommon\bin\Debug\SoleFuCommon.dll
+D:\soulefu_manage\SoleFuCommon\bin\Debug\SoleFuCommon.pdb
+D:\soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.csprojResolveAssemblyReference.cache
+D:\soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.dll
+D:\soulefu_manage\SoleFuCommon\obj\Debug\SoleFuCommon.pdb
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveEntity.dll
+D:\soulefu_manage\SoleFuCommon\bin\Debug\AchieveEntity.pdb

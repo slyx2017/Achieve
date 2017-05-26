@@ -1,0 +1,14 @@
+D:\soulefu_manage\SoleFuModel\bin\Debug\AchieveEntity.dll
+D:\soulefu_manage\SoleFuModel\bin\Debug\AchieveEntity.pdb
+D:\soulefu_manage\SoleFuModel\obj\Debug\AchieveEntity.dll
+D:\soulefu_manage\SoleFuModel\obj\Debug\AchieveEntity.pdb
+D:\Achieve\Entity\AchieveEntity\bin\Debug\AchieveEntity.dll
+D:\Achieve\Entity\AchieveEntity\bin\Debug\AchieveEntity.pdb
+D:\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.csprojResolveAssemblyReference.cache
+D:\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.dll
+D:\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.pdb
+D:\MyProduct\Achieve\Entity\AchieveEntity\bin\Debug\AchieveEntity.dll
+D:\MyProduct\Achieve\Entity\AchieveEntity\bin\Debug\AchieveEntity.pdb
+D:\MyProduct\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.csprojResolveAssemblyReference.cache
+D:\MyProduct\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.dll
+D:\MyProduct\Achieve\Entity\AchieveEntity\obj\Debug\AchieveEntity.pdb

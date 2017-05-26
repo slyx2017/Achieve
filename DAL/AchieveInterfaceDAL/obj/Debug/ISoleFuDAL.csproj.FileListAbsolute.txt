@@ -1,0 +1,14 @@
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\bin\Debug\ISoleFuDAL.dll
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\bin\Debug\ISoleFuDAL.pdb
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\bin\Debug\SoleFuModel.dll
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\bin\Debug\SoleFuModel.pdb
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.csprojResolveAssemblyReference.cache
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.dll
+F:\Project\51sole_soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.pdb
+D:\soulefu_manage\ISoleFuDAL\bin\Debug\ISoleFuDAL.dll
+D:\soulefu_manage\ISoleFuDAL\bin\Debug\ISoleFuDAL.pdb
+D:\soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.csprojResolveAssemblyReference.cache
+D:\soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.dll
+D:\soulefu_manage\ISoleFuDAL\obj\Debug\ISoleFuDAL.pdb
+D:\soulefu_manage\ISoleFuDAL\bin\Debug\AchieveEntity.dll
+D:\soulefu_manage\ISoleFuDAL\bin\Debug\AchieveEntity.pdb

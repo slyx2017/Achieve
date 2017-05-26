@@ -1,0 +1,4 @@
+D:\soulefu_manage\SoleFuModel\bin\Debug\Achieve.Entity.dll
+D:\soulefu_manage\SoleFuModel\bin\Debug\Achieve.Entity.pdb
+D:\soulefu_manage\SoleFuModel\obj\Debug\Achieve.Entity.dll
+D:\soulefu_manage\SoleFuModel\obj\Debug\Achieve.Entity.pdb
